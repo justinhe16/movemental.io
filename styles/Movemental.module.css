@@ -1,0 +1,12 @@
+.container {
+  background-color: #F9F9F9;
+  height: 100vh;
+}
+
+.left {
+  padding: 20px;
+}
+
+.right {
+  padding: 20px;
+}
